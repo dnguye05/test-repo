@@ -5,6 +5,7 @@ int main() {
 	int b = 2;
 	int total = a + b;
 	printf("a: %d, b: %d\n", a, b);
-	printf("Hello World! Total: %d\n", total);
+	printf("Total: %d\n", total);
+	printf("Hello World!\n");
 	return 0;
 }
